@@ -1,0 +1,9 @@
+.ToDoCounter{
+    background-color: #3152C4;
+        color:black;
+        font-weight: normal;
+        margin:0
+}
+.ToDoCounter span{
+    font-weight: bold;
+}
